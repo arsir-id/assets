@@ -1,0 +1,2 @@
+# assets
+Arsir public assets
